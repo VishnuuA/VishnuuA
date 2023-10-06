@@ -1,18 +1,13 @@
-## Deploy Azure Synapse Demo in Your Azure Environment
-
-### Pre-requisites to Deploy Synapse end-to-end Demo
-
-* You must have a github account
-* You must have an active azure subscription
+## Deploy Azure Synapse_HealthCare Demo in Azure Environment
 
 ### Deployment Steps
 Please follow the below steps to successfully deploy a Synapse workspace and its artifacts on your Azure subscription
 
-* Fork microsoft/AzureSynapseEndToEndDemo project to your local github account. Make sure to check "Copy the main branch only".
+* Fork microsoft/AzureSynapseEndToEnd project to  local github account. Make sure to check "Copy the main branch only".
 
     ![Forking](/Images/Forking.gif)
 
-* Once you fork the AzureSynapseEndToEndDemo project to your github account, please click on **Deploy to Azure** button to start the deployment
+* Once  fork the AzureSynapseEndToEnd project to  github account, please click on **Deploy to Azure** button to start the deployment
 
     [![Deploy To Azure](/Images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FAzureSynapseEndToEndDemo%2Fmain%2FARMTemplate%2Fazuredeploy.json)
 
