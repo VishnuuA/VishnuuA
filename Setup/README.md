@@ -1,4 +1,4 @@
-## Deploy Azure Synapse_HealthCare Demo in Azure Environment
+## Vishnuu's - HealthCare_Azure Synapse_Demo in Azure Environment
 
 ### Deployment Steps
 
